@@ -17,6 +17,9 @@ This is a program which recognizes words in an image and converts the text to sp
 ## How to Use:
 
 1. Run app.py
+```
+python app.py
+```
 
 
 
