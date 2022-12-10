@@ -21,6 +21,6 @@ This is a program which recognizes words in an image and converts the text to sp
 python app.py
 ```
 
+![main application window](Screenshots/Screenshot_1.png)
 
-
-2. 
+2. Drag and Drop the image you want to listen to.
