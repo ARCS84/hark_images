@@ -13,3 +13,11 @@ This is a program which recognizes words in an image and converts the text to sp
 **PyQt5:** make the GUI application
 
 **numpy**
+
+## How to Use:
+
+1. Run app.py
+
+
+
+2. 
