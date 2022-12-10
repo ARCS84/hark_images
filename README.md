@@ -24,3 +24,11 @@ python app.py
 ![main application window](Screenshots/Screenshot_1.png)
 
 2. Drag and Drop the image you want to listen to.
+
+## Examples:
+
+1.
+![example 1](Screenshots/Screenshot_2.png)
+
+2.
+![example 2](Screenshots/Screenshot_3.png)
