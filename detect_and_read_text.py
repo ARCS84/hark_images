@@ -3,8 +3,7 @@ from pytesseract import pytesseract
 from pytesseract import Output
 import pyttsx3
 
-pytesseract.tesseract_cmd = "C:\\Tesseract-OCR\\tesseract.exe"
-#change path to tesseract.exe location in your machine
+pytesseract.tesseract_cmd = "C:\\Tesseract-OCR\\tesseract.exe" #change path to tesseract.exe location in your machine
 
 class detect_and_read_text:
     def read(self, file_path):
